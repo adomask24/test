@@ -24,7 +24,7 @@ public class TestOne{
 
 String str = "Adomas Karalevicius";
 Hashcode(str);
-public status String (String str){
-System.out.println("Haskodas  :  " + str.hashCode());
-    }
+public static  Hashcode (String str){
+System.out.println("Haskodas  :  " + str.hashCode());    
+}
 }

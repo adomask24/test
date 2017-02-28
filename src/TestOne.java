@@ -21,5 +21,10 @@ public class TestOne{
             System.out.printf("%02X", b & 0xff);
         }
         System.out.println();
+
+String str = "Adomas Karalevicius";
+Hashcode(str);
+public status String (String str){
+System.out.println("Haskodas  :  " + str.hashCode());
     }
 }
